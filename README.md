@@ -16,7 +16,7 @@ When you run the application, it will generate two outputs:
   - A plot saved as output.png.
 
 ## Requirements
-- Docker should be running on your environment.
+Docker should be running on your environment.
 
 ## Installation
 Clone the repo Git :
