@@ -22,9 +22,12 @@ cd answer-deepki
 ```
 
 ## Run
-
-
+```bash
+docker build -t deepki-container .
+```
 
 ```bash
+docker run -v $(pwd):/workspace deepki-container 
+```
 
 
