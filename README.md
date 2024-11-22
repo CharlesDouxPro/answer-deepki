@@ -12,7 +12,7 @@ The pipeline take in entry 3 inputs:
 
 When you run the application, it will generate two outputs:
 
-  - The Plus Code of the closest building, shown in the terminal.
+  - The Plus Code of the closest building from the reference building, shown in the terminal.
   - A plot saved as output.png.
 
 ## Requirements
