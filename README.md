@@ -36,7 +36,7 @@ docker run -v $(pwd):/workspace deepki-container
 
 it will generate the outputs.
 
-The inputs are already set in the cmd docker line, but can be overides easily by using : 
+The inputs are already set in the Docker CMD line but can be easily overridden by using : 
 
 ```bash
 docker run -v $(pwd):/workspace deepki-container python main.py --ref_lat <latitude> --ref_lon <longitude> --url <csv_file_url>
