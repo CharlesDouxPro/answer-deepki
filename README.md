@@ -15,7 +15,7 @@ When you run the application, it will generate two outputs:
   - The Plus Code of the closest building, shown in the terminal.
   - A plot saved as output.png.
 
-## Prérequis
+## Requirements
 - Docker should be running on your environment.
 
 ## Installation
